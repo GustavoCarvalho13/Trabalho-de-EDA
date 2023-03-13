@@ -1,0 +1,4 @@
+﻿  meio.c
+C:\Users\gusta\Desktop\LESI 2022-23\2º Semestre\EDA\Projeto EDA Fase 1_2.0\Projeto EDA Fase 1_2.0\meio.c(63): warning C4715: 'inserirMeio': not all control paths return a value
+C:\Users\gusta\Desktop\LESI 2022-23\2º Semestre\EDA\Projeto EDA Fase 1_2.0\Projeto EDA Fase 1_2.0\meio.c(190): warning C4715: 'inserirUtilizadores': not all control paths return a value
+  Projeto EDA Fase 1_2.0.vcxproj -> C:\Users\gusta\Desktop\LESI 2022-23\2º Semestre\EDA\Projeto EDA Fase 1_2.0\x64\Debug\Projeto EDA Fase 1_2.0.exe
