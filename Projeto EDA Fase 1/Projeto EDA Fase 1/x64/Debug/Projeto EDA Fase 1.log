@@ -1,0 +1,6 @@
+﻿  Functions.c
+C:\Users\gusta\Desktop\LESI 2022-23\2º Semestre\EDA\Projeto EDA Fase 1\Projeto EDA Fase 1\Functions.c(101,28): warning C4133: '=': incompatible types - from 'utilizador *' to 'User *'
+C:\Users\gusta\Desktop\LESI 2022-23\2º Semestre\EDA\Projeto EDA Fase 1\Projeto EDA Fase 1\Functions.c(125,26): warning C4133: '=': incompatible types - from 'User *' to 'utilizador *'
+C:\Users\gusta\Desktop\LESI 2022-23\2º Semestre\EDA\Projeto EDA Fase 1\Projeto EDA Fase 1\Functions.c(145,29): warning C4133: '=': incompatible types - from 'utilizador *' to 'User *'
+C:\Users\gusta\Desktop\LESI 2022-23\2º Semestre\EDA\Projeto EDA Fase 1\Projeto EDA Fase 1\Functions.c(24): warning C4715: 'inserirMeio': not all control paths return a value
+  Projeto EDA Fase 1.vcxproj -> C:\Users\gusta\Desktop\LESI 2022-23\2º Semestre\EDA\Projeto EDA Fase 1\x64\Debug\Projeto EDA Fase 1.exe
