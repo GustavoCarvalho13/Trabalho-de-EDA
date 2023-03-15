@@ -1,0 +1,10 @@
+﻿  fase1.c
+C:\Users\gusta\Desktop\LESI 2022-23\2º Semestre\EDA\Projeto EDA Fase 1_3.0\Projeto EDA Fase 1_3.0\fase1.c(32,6): warning C4101: 'pass': unreferenced local variable
+C:\Users\gusta\Desktop\LESI 2022-23\2º Semestre\EDA\Projeto EDA Fase 1_3.0\Projeto EDA Fase 1_3.0\fase1.c(160,37): warning C4020: 'listarGestores': too many actual parameters
+C:\Users\gusta\Desktop\LESI 2022-23\2º Semestre\EDA\Projeto EDA Fase 1_3.0\Projeto EDA Fase 1_3.0\fase1.c(59,6): warning C4101: 'opcao': unreferenced local variable
+  meio.c
+  Generating Code...
+C:\Users\gusta\Desktop\LESI 2022-23\2º Semestre\EDA\Projeto EDA Fase 1_3.0\Projeto EDA Fase 1_3.0\meio.c(63): warning C4715: 'inserirMeio': not all control paths return a value
+C:\Users\gusta\Desktop\LESI 2022-23\2º Semestre\EDA\Projeto EDA Fase 1_3.0\Projeto EDA Fase 1_3.0\meio.c(190): warning C4715: 'inserirUtilizadores': not all control paths return a value
+C:\Users\gusta\Desktop\LESI 2022-23\2º Semestre\EDA\Projeto EDA Fase 1_3.0\Projeto EDA Fase 1_3.0\meio.c(255): warning C4715: 'inserirGestor': not all control paths return a value
+  Projeto EDA Fase 1_3.0.vcxproj -> C:\Users\gusta\Desktop\LESI 2022-23\2º Semestre\EDA\Projeto EDA Fase 1_3.0\x64\Debug\Projeto EDA Fase 1_3.0.exe
