@@ -1,0 +1,12 @@
+12|Bateria:100.000000|Autunomia:400.000000|Tipo:Carro|Custo:50.000000|Localizacao:BUS
+11|Bateria:99.000000|Autunomia:87.000000|Tipo:Scooter|Custo:10.000000|Localizacao:Estacionamento.EST
+10|Bateria:67.000000|Autunomia:40.000000|Tipo:Bicicleta|Custo:5.000000|Localizacao:Estacionamento.ESD
+9|Bateria:92.000000|Autunomia:25.000000|Tipo:Trotinete|Custo:2.000000|Localizacao:EST
+8|Bateria:18.000000|Autunomia:72.000000|Tipo:Carro|Custo:50.000000|Localizacao:Estacionamento.ESG
+7|Bateria:22.000000|Autunomia:32.000000|Tipo:Scooter|Custo:10.000000|Localizacao:Cantina
+6|Bateria:28.000000|Autunomia:30.000000|Tipo:Bicicleta|Custo:5.000000|Localizacao:Estacionamento.ESG
+5|Bateria:32.000000|Autunomia:20.000000|Tipo:Trotinete|Custo:2.000000|Localizacao:ESD
+4|Bateria:40.000000|Autunomia:90.000000|Tipo:Carro|Custo:50.000000|Localizacao:Estacionamento.ESD
+3|Bateria:75.000000|Autunomia:45.000000|Tipo:Scooter|Custo:10.000000|Localizacao:BUS
+2|Bateria:50.000000|Autunomia:30.000000|Tipo:Bicicleta|Custo:5.000000|Localizacao:ESG
+1|Bateria:10.000000|Autunomia:7.000000|Tipo:Trotinete|Custo:2.000000|Localizacao:Estacionamento.EST

@@ -1,0 +1,21 @@
+﻿  Functions.c
+C:\Users\gusta\Desktop\LESI 2022-23\2º Semestre\EDA\Projeto EDA Fase 2-1.0\Projeto EDA Fase 2-1.0\Functions.c(155,3): warning C4033: 'ordenarMeios' must return a value
+C:\Users\gusta\Desktop\LESI 2022-23\2º Semestre\EDA\Projeto EDA Fase 2-1.0\Projeto EDA Fase 2-1.0\Functions.c(166,33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\gusta\Desktop\LESI 2022-23\2º Semestre\EDA\Projeto EDA Fase 2-1.0\Projeto EDA Fase 2-1.0\Functions.c(164,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\gusta\Desktop\LESI 2022-23\2º Semestre\EDA\Projeto EDA Fase 2-1.0\Projeto EDA Fase 2-1.0\Functions.c(452,13): warning C4098: 'procurarVerticePorMeio': 'void' function returning a value
+C:\Users\gusta\Desktop\LESI 2022-23\2º Semestre\EDA\Projeto EDA Fase 2-1.0\Projeto EDA Fase 2-1.0\Functions.c(460,13): warning C4098: 'procurarVerticePorMeio': 'void' function returning a value
+  Main.c
+C:\Users\gusta\Desktop\LESI 2022-23\2º Semestre\EDA\Projeto EDA Fase 2-1.0\Projeto EDA Fase 2-1.0\Main.c(32,6): warning C4101: 'pass': unreferenced local variable
+C:\Users\gusta\Desktop\LESI 2022-23\2º Semestre\EDA\Projeto EDA Fase 2-1.0\Projeto EDA Fase 2-1.0\Main.c(219,66): warning C4133: 'function': incompatible types - from 'Grafo' to 'char *'
+C:\Users\gusta\Desktop\LESI 2022-23\2º Semestre\EDA\Projeto EDA Fase 2-1.0\Projeto EDA Fase 2-1.0\Main.c(235,36): warning C4020: 'listarGestores': too many actual parameters
+C:\Users\gusta\Desktop\LESI 2022-23\2º Semestre\EDA\Projeto EDA Fase 2-1.0\Projeto EDA Fase 2-1.0\Main.c(272,6): warning C4013: 'dijkstra' undefined; assuming extern returning int
+C:\Users\gusta\Desktop\LESI 2022-23\2º Semestre\EDA\Projeto EDA Fase 2-1.0\Projeto EDA Fase 2-1.0\Main.c(66,6): warning C4101: 'opcao': unreferenced local variable
+C:\Users\gusta\Desktop\LESI 2022-23\2º Semestre\EDA\Projeto EDA Fase 2-1.0\Projeto EDA Fase 2-1.0\Main.c(60,25): warning C4101: 'i': unreferenced local variable
+C:\Users\gusta\Desktop\LESI 2022-23\2º Semestre\EDA\Projeto EDA Fase 2-1.0\Projeto EDA Fase 2-1.0\Main.c(69,15): warning C4101: 'opcaoU': unreferenced local variable
+  Generating Code...
+C:\Users\gusta\Desktop\LESI 2022-23\2º Semestre\EDA\Projeto EDA Fase 2-1.0\Projeto EDA Fase 2-1.0\Functions.c(69): warning C4715: 'inserirMeio': not all control paths return a value
+C:\Users\gusta\Desktop\LESI 2022-23\2º Semestre\EDA\Projeto EDA Fase 2-1.0\Projeto EDA Fase 2-1.0\Functions.c(174): warning C4715: 'ordenarMeios': not all control paths return a value
+C:\Users\gusta\Desktop\LESI 2022-23\2º Semestre\EDA\Projeto EDA Fase 2-1.0\Projeto EDA Fase 2-1.0\Functions.c(233): warning C4715: 'inserirUtilizadores': not all control paths return a value
+C:\Users\gusta\Desktop\LESI 2022-23\2º Semestre\EDA\Projeto EDA Fase 2-1.0\Projeto EDA Fase 2-1.0\Functions.c(314): warning C4715: 'inserirGestor': not all control paths return a value
+Main.obj : error LNK2019: unresolved external symbol dijkstra referenced in function main
+C:\Users\gusta\Desktop\LESI 2022-23\2º Semestre\EDA\Projeto EDA Fase 2-1.0\x64\Debug\Projeto EDA Fase 2-1.0.exe : fatal error LNK1120: 1 unresolved externals
